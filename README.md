@@ -1,5 +1,5 @@
 # hilbert_curve_public
-Draw 2D Hilbert Curve in Processing
+### Draw 2D Hilbert Curve in Processing
 
 ### How to Run
 Fire it up in [processing](https://processing.org/), and use mousescroll up or down. Fairly simple. An illustration:
