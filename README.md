@@ -4,6 +4,8 @@ Draw 2D Hilbert Curve in Processing
 ### How to Run
 Fire it up in [processing](https://processing.org/), and use mousescroll up or down. Fairly simple. An illustration:
 
+![demo](https://github.com/DogtorDoggo/hilbert_curve_public/assets/5264031/b3b5dbd7-d5dc-44cf-aaf3-768e616a9003)
+
 
 
 ### Notes
